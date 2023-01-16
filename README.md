@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/devumar1/suveren.dk">
     <img src="logo-new-square.png" alt="Logo" width="120" height="60">
   </a>
 
@@ -13,9 +13,9 @@
     <br />
     <a href="https://crm.suveren.dk">View Demo</a>
     <!--
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/devumar1/suveren.dk/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/devumar1/suveren.dk/issues">Request Feature</a>
     -->
   </p>
 </div>
@@ -55,9 +55,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `devumar1`, `suveren.dk`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 -->
 <img src="screenshot.png" alt="Logo" width="100%">
 
@@ -70,14 +70,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
 
 Umar Hameed - dev.umerhameed@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
